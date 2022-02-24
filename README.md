@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raju-kumar21
 - 👀 I’m interested in ... (Software Development)
-- 🌱 I’m currently learning ( Java Full Stack Development )
+- 🌱 I’m currently learning ( Core Java ,J2EE ,MVC )
 - 💞️ I’m looking to collaborate on ( Java Project And Web Devlopment Project )
 - 📫 How to reach me ...( https://www.linkedin.com/in/raju-kumar-5459131a8/ )
 
