@@ -21,9 +21,6 @@ I don't just write code.
     <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=raju-kumar21&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" />
-
 </div>
 
 ---
